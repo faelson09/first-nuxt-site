@@ -1,5 +1,5 @@
 <template>
-   <header class="w-screen shadow-sm h-14 flex items-center justify-center">
+   <header class="w-screen shadow-sm h-14 flex items-center justify-center bg-blue-600 sticky top-0">
       <nav class="w-[calc(100%-12px)] max-w-[1200px] flex items-center justify-between">
          <a href="" class="flex gap-2 items-center">
             <NuxtImg src="/favicon.ico"/>
